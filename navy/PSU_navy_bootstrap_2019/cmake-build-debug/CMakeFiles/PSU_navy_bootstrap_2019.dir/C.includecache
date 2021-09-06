@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CookiieZ/Epitech/PSU/navy/PSU_navy_bootstrap_2019/main.c
+stdio.h
+-
+zconf.h
+-
+

@@ -1,0 +1,3 @@
+/home/CookiieZ/Epitech/mandatory/my_sokoban/my_sokoban/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/CookiieZ/Epitech/mandatory/my_sokoban/my_sokoban/cmake-build-debug/CMakeFiles/my_sokoban.dir
+/home/CookiieZ/Epitech/mandatory/my_sokoban/my_sokoban/cmake-build-debug/CMakeFiles/edit_cache.dir

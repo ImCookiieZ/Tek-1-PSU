@@ -1,0 +1,1 @@
+/bin/gcc -g   CMakeFiles/PSU_navy_bootstrap_2019.dir/main.c.o  -o PSU_navy_bootstrap_2019 

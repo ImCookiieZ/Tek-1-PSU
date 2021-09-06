@@ -1,0 +1,1 @@
+/bin/gcc -g   CMakeFiles/my_sokoban.dir/main.c.o  -o my_sokoban 

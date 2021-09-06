@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CookiieZ/Epitech/mandatory/my_sokoban/test_clock/main.c
+stdio.h
+-
+SFML/Graphics.h
+-
+SFML/System.h
+-
+

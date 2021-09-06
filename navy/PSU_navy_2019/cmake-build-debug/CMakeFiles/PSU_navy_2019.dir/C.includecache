@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CookiieZ/Epitech/PSU/navy/PSU_navy_2019/include/all_includes.h
+my.h
+/home/CookiieZ/Epitech/PSU/navy/PSU_navy_2019/include/my.h
+signal.h
+-
+
+/home/CookiieZ/Epitech/PSU/navy/PSU_navy_2019/include/my.h
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+stdarg.h
+-
+
+/home/CookiieZ/Epitech/PSU/navy/PSU_navy_2019/src/gameloop.c
+../include/all_includes.h
+/home/CookiieZ/Epitech/PSU/navy/PSU_navy_2019/include/all_includes.h
+

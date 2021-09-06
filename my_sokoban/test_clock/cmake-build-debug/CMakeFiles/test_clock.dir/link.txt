@@ -1,0 +1,1 @@
+/bin/gcc -g   CMakeFiles/test_clock.dir/main.c.o  -o test_clock -lcsfml-graphics -lcsfml-system 
